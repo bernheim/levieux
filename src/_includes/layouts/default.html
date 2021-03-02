@@ -1,0 +1,23 @@
+---
+---
+{% include head.html %}
+<body>
+  {% if locale == "fr" %}
+    {% include navbar_fr.html %}
+  {% else %}
+    {% include navbar_en.html %}
+  {% endif %}
+  
+{{ content | safe }}
+
+  {% if locale == "fr" %}
+    {% include footer_fr.html %}
+  {% else %}
+    {% include footer_en.html %}
+  {% endif %}
+
+ 
+<script async src="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.js"></script>
+<div id="snipcart" data-config-modal-style="side" data-api-key="N2I2OWUxM2YtNDA1YS00ZjBiLWFhMjUtNGFmMjMwMjdlODNlNjM3MzAwNjUxNDg4NDUzNTEw" data-currency="eur" hidden></div>
+</body>
+</html>

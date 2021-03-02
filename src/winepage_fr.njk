@@ -1,0 +1,44 @@
+---
+pagination:
+    data: wines
+    size: 1
+    alias: wine
+permalink: "fr/{{ wine.chateau | slug }}/{{ wine.id }}/"
+layout: layouts/default.html
+winepage: true
+locale: fr
+---
+<div class="padding">
+  <h1 class="wine-header">{{wine.name}}</h1>
+  <div class="wine-page flex">
+    <div class="inline-block">
+      <div class="wine-details"><div>{{wine.aop}}</div><div>{{wine.cepages}}</div></div>
+      <div><p>{{wine.description.fr}}</p></div>
+      <div class="ecommerce-block">
+        <span class="inline-block price">€{{wine.price}}</span>
+        <button class="snipcart-add-item inline-block"
+            data-item-id="{{wine.id}}"
+            data-item-price="{{wine.price}}"
+            data-item-url="{{wine.url}}"
+            data-item-description="{{wine.description.fr}}"
+            data-item-image="{{wine.img}}"
+            data-item-name="{{wine.name}}">
+            Add to cart
+          </button>
+        </div>
+      <div>
+        <h2>Terroir</h2>
+        <p>{{wine.terroir.fr}}</p>
+      </div>
+      <div>
+        <h2>Vinification</h2>
+        <p>{{wine.vinification.fr}}</p>
+      </div>
+        <a href="{{wine.fiche}}" download class="fiche_technique">Fiche technique</a>
+    </div>
+
+    <div class="">
+        <img src="{{ wine.img }}" class="block padding">
+    </div>
+  </div>
+</div>

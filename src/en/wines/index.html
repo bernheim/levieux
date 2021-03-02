@@ -1,0 +1,36 @@
+---
+layout: "layouts/page.njk"
+---
+<div class="padding">
+<h1 class="text-dark">Our wines</h1>
+  <p class="">Established since 2003, in collaboration with our outside consultant Olivier Dauga, our winemaking and ageing process is essentially based on the respect of the fruit and the balance of our wines, while seeking the perfect marriage between strength of character and freshness. It changes each year, depending on the conditions of the vintage, new techniques made available and our investment options but we never lose sight of improving the quality of our wines.</p>
+  <div class="medals flex">
+    <img src="/images/bordeaux-or-medaille.png">
+    <img src="/images/bruxelles-argent-medaille.png">
+    <img src="/images/paris-or-medaille.png">
+    <img src="/images/challenge-argent-medaille.png">
+    <img src="/images/lyon-or-medaille.png">
+    <img src="/images/macon-or-medaille.png">
+  </div>
+</div>
+<div class="flex border">
+  <img src="/images/cave_sylvie.jpg">
+  <div class="side-text serif">Our winemaking and ageing process is essentially based on the respect of the fruit, and the balance of our wines, seeking the perfect marriage between strength of character and freshness.
+  </div>
+</div>
+<div class="padding wine-text">
+  <p>
+    For white wines and rosés: Grapes are harvested at night with total protection of the fruit against oxidation using inert gas. Maceration is done with skins (for the white wines). A low-pressure pneumatic press is used for pressing and alcoholic fermentation takes place in small concrete, thermo-regulated vats. The wine is then quickly bottled to preserve its aromatic abundance.
+  </p>
+  <p>
+    For red wines: The fruit is harvested at temperatures lower than 15°C. De-stemming and crushing is practiced with total protection of grapes against oxidation using inert gas. Pre-fermentation cold maceration then low temperature- almost anaerobic alcoholic fermentation takes place. 20 to 30 days are then spent in vats, depending on the parcels. Wine is then emptied from vats using gravity followed by pneumatic pressing. The process and length of ageing (vats, staves or barrels) is chosen depending on the quality of the batches and the vintage, pushing the quest for aroma to the limit of reduction, before bottling the wine in our chais.
+  </p>
+</div>
+<div class="wine-grid-container">
+{%- for wine in wines %}
+  <a href="/en/{{wine.chateau | slug}}/{{wine.id}}/" class="inline-block wine-grid">
+    <img src="{{ wine.img }}" class="block"><span>{{ wine.name }}</span>
+  </a>
+{% endfor %}
+
+</div>

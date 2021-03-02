@@ -1,0 +1,302 @@
+[
+    {
+      "chateau": "Labatut",
+      "img": "/images/labatut/labatut_rose.png",
+      "cepages": "60% Merlot, 40% Cabernet Franc",
+      "id": "labatut-rose",
+      "url": "url",
+      "name": "Labatut Cuvée Prestige Rosé",
+      "aop": "AOC Bordeaux (Rosé)",
+      "price": "11.99",
+      "terroir": {
+        "en": "Planted in full southern exposure on gentle slopes and hillsides, this terroir is made up of fossil-rich maritime limestone underlying a layer of clay rich in iron ore.",
+        "fr": "Plantations exposées au sud, en légères pentes et petits coteaux, sur un terroir constitué de calcaire maritime à fossiles sous une couche d’argile riche en minerai de fer."
+      },
+      "vinification": {
+        "en": "Harvested at night in order to preserve the freshness of the grapes, the varietals are vinified separately. After immediate pressing and cold settling, the temperature is maintained at 15°-16°C for alcoholic fermentation. Malolactic fermentation is blocked. After fining and filtration, the wine is bottle at the Château four months after harvest.",
+        "fr": "Récoltés de nuit afin de privilégier la fraicheur des raisins, les cépages sont vinifiés séparément. Après un pressurage direct et un débourbage à froid, la température est maintenue à 15° - 16° C pour la fermentation alcoolique. La fermentation malolactique est bloquée. Après collage et filtration, le vin est mis en bouteille au château 4 mois après la récolte."
+      },
+      "description": {
+        "en": "This cuvée, created from Merlot and Cabernet Franc, has donned a “rose petal” robe for its admirers. The nose unveils notes of strawberry, cherry andraspberry. Indulge in its freshness when enjoying the company of friends.",
+        "fr": "Robe légère « pétale de rose ». Nez aux notes de fraise, de cerise et de framboise. Beaucoup de fraîcheur et de gourmandise en bouche pour ce vin de plaisir et de partage."
+      },
+      "text": "wine1",
+      "fiche": "/images/labatut/LBT-Prestige-Blanc.pdf"
+    },
+    {
+      "chateau": "Labatut",
+      "img": "/images/labatut/labatut_blanc.png",
+      "cepages": "60% Sémillon, 40% Sauvignon Gris",
+      "id": "labatut-blanc",
+      "url": "url",
+      "name": "Labatut Blanc",
+      "aop": "AOC Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "en": "Planted in full southern exposure on gentle slopes and hillsides, this terroir is made up of fossil-rich maritime limestone underlying a layer of clay rich in iron ore.",
+        "fr": "Plantations exposées au sud, en légères pentes et petits coteaux, sur un terroir constitué de calcaire maritime à fossiles sous une couche d’argile riche en minerai de fer."
+      },
+      "vinification": {
+        "en": "Harvested separately at night, the Sauvignon Gris and Sémillion varietals that make up this cuvée are crushed for maceration with skins before pressing and settling at low temperatures. Fermentation evolves at between 16°C and 18°C for approximately 10 days. Malolactic fermentation is blocked. After blending, the wine is then aged in vats for 4 months; stirred on fine lees before being filtered and bottled in our chais.",
+        "fr": "Vendangés séparément de nuit, les cépages Sauvignon Gris et Sémillon qui composent cette cuvée sont foulés pour une macération pelliculaire, avant pressurage et débourbage à basse température. La fermentation se déroule à une température comprise entre 16° et 18°C pendant environ 10 jours. La fermentation malolactique est bloquée. Après assemblage, un élevage sur lies fines est pratiqué en cuve durant 4 mois, avant filtration et mise en bouteille dans nos chais."
+      },
+      "description": {
+        "en": "A delicately golden robe. The nose and palate reveal white fruit (peach) and citrus (grapefruit) aromas. An enjoyable length with a fresh and delicate character that surprises the palate.",
+        "fr": "Robe légèrement dorée. Au nez et en bouche, les arômes de fruits blancs (pêche) et d’agrumes (pamplemousse) se révèlent. D’une belle longueur, la bouche étonne par sa fraicheur et son délicatesse."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Labatut",
+      "img": "/images/labatut/labatut_rouge.png",
+      "cepages": "40% Cabernet Franc 35% Merlot 25% Cabernet Sauvignon",
+      "id": "labatut-rouge",
+      "url": "url",
+      "name": "Labatut Rouge",
+      "aop": "AOC Bordeaux Supérieur",
+      "price": "11.99",
+      "terroir": {
+        "en": "Planted in full southern exposure on gentle slopes and hillsides, this terroir is made up of fossil-rich maritime limestone underlying a layer of clay rich in iron ore.",
+        "fr": "Plantations exposées au sud, en légères pentes et petits coteaux, sur un terroir constitué de calcaire maritime à fossiles sous une couche d’argile riche en minerai de fer."
+      },
+      "vinification": {
+        "en": "Harvested at night in order to preserve the freshness of the grapes, the varietals are vinified separately. After immediate pressing and cold settling, the temperature is maintained at 15°-16°C for alcoholic fermentation. Malolactic fermentation is blocked. After fining and filtration, the wine is bottle at the Château four months after harvest.",
+        "fr": "Récoltés de nuit afin de privilégier la fraicheur des raisins, les cépages sont vinifiés séparément. Après un pressurage direct et un débourbage à froid, la température est maintenue à 15° - 16° C pour la fermentation alcoolique. La fermentation malolactique est bloquée. Après collage et filtration, le vin est mis en bouteille au château 4 mois après la récolte."
+      },
+      "description": {
+        "en": "Dense, ruby robe. On the nose it has a crushed red fruit aroma. On the palate, it is smooth and appetizing. The prime flavours- strawberry, black currant and blackberries have a lasting finish.",
+        "fr": "Belle robe dense, couleur rubis. Nez aux arômes de fruits rouges écrasés. Bouche onctueuse et gourmande. La fraise, le cassis et la mûre dominent avec une belle persistance."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Labatut",
+      "img": "/images/labatut/labatut_grand.png",
+      "cepages": "50% Carbernet Franc, 40% Merlot, 10% Cabernet Sauvignon",
+      "id": "labatut-grand",
+      "url": "url",
+      "name": "Labatut Grand Vin",
+      "aop": "AOC Bordeaux Supérieur",
+      "price": "11.99",
+      "terroir": {
+        "en": "Planted in full southern exposure on gentle slopes and hillsides, this terroir is made up of fossil-rich maritime limestone underlying a layer of clay rich in iron ore. Selected from our best parcels of Cabernet Franc, Merlot and Cabernet Sauvignon, this cuvée receives all of our attention: double guyot short pruning, de-budding, leaf-thinning and green harvesting.",
+        "fr": "Plantations exposées au sud, en légères pentes et petits coteaux, sur un terroir constitué de calcaire maritime à fossiles sous une couche d’argile riche en minerai de fer. Issue d’une sélection de nos meilleures parcelles de Cabernet Franc, Merlot et Cabernet Sauvignon, cette cuvée bénéficie de toutes nos attentions : taille courte en guyot double, ébourgeonnage, effeuillage & vendanges en vert."
+      },
+      "vinification": {
+        "en": "Harvested at cool temperatures, the Cabernet Franc and Merlot varietals are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed, the wine is then ageing in oak barrels for 12 to 14 months before being bottled in our chais.",
+        "fr": "Vendangés frais, les cépages Cabernet Franc et Merlot sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en barriques de chêne durant 12 à 14 mois avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Ruby robe with purple highlights. Its nose is characterised by ripe fruit (strawberry, black cherry and blueberry). Its full mouth, with dense, silky tannins has a lovely finish.",
+        "fr": "Robe rubis aux reflets violacés. Nez marqué par des senteurs de fruits mûrs (fraise, cerise noire, myrtille). Bouche ample, aux tannins denses et soyeux, avec une belle allonge."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_damnation.png",
+      "cepages": "85% Cabernet Franc, 15% Merlot",
+      "id": "roquesmauriac-damnation",
+      "url": "url",
+      "name": "Roques-Mauriac Damnation",
+      "aop": "AOC Bordeaux (Rouge)",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau... Produced from our best Cabernet Franc and Merlot parcels, this cuvée is the quintessential expression of our terroir and a perfect reflection of our know-how.",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion… Issue de nos plus belles parcelles de Cabernet Franc et de Merlot, cette cuvée est la quintessence de notre terroir, ainsi qu’une vraie vitrine de notre savoir-faire."
+      },
+      "vinification": {
+        "en": "Low yield harvesting (40hl/ha), the Cabernet Franc and Merlot varietals are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (18-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 25 to 30 days varies depending on the year. Once the malolactic fermentation has been completed, the wine is aged for 16 to 18 months in new, extra fine-grained oak barrels that have undergone a longer, less intense toasting process called chauffe blonde before being bottled in our chais.",
+        "fr": "Vendangés à faible rendement (40hl/ha), les cépages Cabernet Franc et Merlot sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (18-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 25 à 30 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en barriques de chêne neuves au grain extra fin et à chauffe « blonde » durant 16 à 18 mois, avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Dark red, almost opaque robe. A complex and expressive nose of ripe red fruits (black currant and raspberry) mixed with floral notes (rose bud and violet), as well as mocha and spices. A silky, sleek mouth with fine-grained tannins. The finish is remarkably fresh.",
+        "fr": "Robe rouge sombre est presque opaque. Nez expressif et complexe de fruits rouges mûrs (cassis, framboise), mêlés à des notes florales (bouton de rose, violette), de moka et d’épices. Bouche soyeuse, élancée, avec des tanins au grain fin. La finale est d’une fraîcheur remarquable."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_grand.png",
+      "cepages": "50% Cabernet Franc, 40% Merlot, 10% Cabernet Sauvignon",
+      "id": "roquesmauriac-grand",
+      "url": "url",
+      "name": "Roques-Mauriac Grand Vin",
+      "aop": "AOP Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion… Issue d’une sélection de nos meilleures parcelles, cette cuvée bénéficie de toutes nos attentions : taille courte en guyot double, ébourgeonnage, effeuillage & vendanges en vert.",
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritimelimestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau... Selected from our best parcels, this cuvée receives all of our attention: double guyot short pruning, de-budding, leaf-thinning and green harvesting."
+      },
+      "vinification": {
+        "fr": "Vendangés frais, les cépages Cabernet Franc, Merlot et Cabernet Sauvignon sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en barriques de chêne et en cuves inox durant 12 à 14 mois avant mise en bouteilles dans nos chais.",
+        "en": "Harvested at cool temperatures, the Cabernet Franc, Merlot and Cabernet Sauvignon varietals are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed, the wine is then aged in oak barrels and stainless steel tanks for 12 to 14 months before being bottled at our chais."
+      },
+      "description": {
+        "fr": "Robe d’un rubis profond. Nez offrant des parfums de fruits rouges (fraise, cassis, mûre) ainsi que des notes épicées et toastées. Bouche de style moderne, offrant de beaux volumes et une trame tannique soyeuse.",
+        "en": "Deep ruby robe. On the nose, red fruit (strawberry, black currant and blackberry) as well as spicy and toasted notes. A modern bouquet with a full body and a silky tannin structure."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_helene.png",
+      "cepages": "60% Cabernet Franc, 40% Merlot",
+      "id": "roquesmauriac-helene",
+      "url": "url",
+      "name": "Roques-Mauriac Cuvée Hélène",
+      "aop": "AOC Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau… The Cuvée Hélène honours the mother of today’s owner, founder of this vineyard in 1985. Edouard Leclerc’s daughter, Hélène Levieux is the first woman to have become member of the Institut National des Appellations d’Origine (INAO) national committee.",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion… La cuvée Hélène rend hommage à la mère de l’actuel propriétaire, fondatrice de ce vignoble en 1985. Fille d’Edouard Leclerc, Hélène Levieux est la première femme à avoir été admise au sein du comité national de l’Institut National des Appellations d’Origine (INAO)."
+      },
+      "vinification": {
+        "en": "Harvested at cool temperatures, the Cabernet Franc and Merlot varietals are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed, the wine is then aged in oak barrels (renewed by a third) for 12 to 14 months before being bottled at our chais.",
+        "fr": "Vendangés frais, les cépages Cabernet Franc et Merlot sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en barriques de chêne (renouvelées par tiers) durant 12 à 14 mois avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Elegant dark crimson robe. The nose exudes aromas of wild strawberry and raspberry with hints of vanilla extract and some mineral notes. On the palate it is elegant, with wild red fruit flavours as well as hints of spice.",
+        "fr": "Belle robe pourpre sombre. Nez exhalant des arômes de fraises des bois, de framboise, mêlés à des essences de vanille et quelques notes minérales. Bouche élégante enrobant un panier de fruits des bois, ainsi que quelques notes épicées."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_classic.png",
+      "cepages": "40% Cabernet Franc, 40% Merlot, 20% Cabernet Sauvignon",
+      "id": "roquesmauriac-classic",
+      "url": "url",
+      "name": "Roques-Mauriac Classic",
+      "aop": "AOC Bordeaux Supérieur",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau…",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion…"
+      },
+      "vinification": {
+        "en": "Harvested at cool temperatures, the Cabernet Franc, Merlot and Cabernet Sauvignon varietals are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed the wine is then aged for a total of 12 to 14 months in stainless steel tanks and with oak staves before being bottled in our chais.",
+        "fr": "Vendangés frais, les cépages Cabernet Franc, Merlot et Cabernet Sauvignon sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en cuves inox et en partie boisé sous « staves » (douelles de barriques de chêne) durant 12 à 14 mois avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Bright ruby robe. An elegant nose of fresh red fruit and a few spicy notes. A fruity mouth with excellent balance and a finish of harmonious, crunchy tannins.",
+        "fr": "Robe de couleur rubis, brillante. Nez offrant d’élégantes notes de fruits rouges frais et quelques notes épicées. Bouche fruitée, dotée d’un bon équilibre, avec une finale aux tanins fondus et croquants."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_classicblanc.png",
+      "cepages": "60% Sauvignon Gris, 40% Sémillon",
+      "id": "roquesmauriac-classicblanc",
+      "url": "url",
+      "name": "Roques-Mauriac Classic Blanc",
+      "aop": "AOC Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau…",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion…"
+      },
+      "vinification": {
+        "en": "Harvested separately at night, the Sauvignon Gris and Sémillion varietals that make up this cuvée are crushed for maceration with skins before pressing and settling at low temperatures. Fermentation evolves at between 16°C and 18°C for approximately 10 days. Malolactic fermentation is blocked. After blending, the wine is then aged in vats for 4 months; stirred on fine lees before being filtered and bottled in our chais.",
+        "fr": "Vendangés séparément de nuit, les cépages Sauvignon Gris et Sémillon qui composent cette cuvée sont foulés pour une macération pelliculaire, avant pressurage et débourbage à basse température. La fermentation se déroule à une température comprise entre 16° et 18°C pendant environ 10 jours. La fermentation malolactique est bloquée. Après assemblage, un élevage sur lies fines avec batonnage est pratiqué en cuve durant 4 mois, avant filtration et mise en bouteille dans nos chais."
+      },
+      "description": {
+        "en": "Pale golden robe. An enticing nose with floral aromas (jasmine, rose, hawthorn), accompanied with perfumes of citrus and boxwood. A rich and tasty mouth, full of ripe fruit flavour (grapefruit) that draws out in the finish.",
+        "fr": "Robe or pâle. Nez séduisant aux arômes floraux (jasmin, rose, aubépine), complétés de parfums d’agrumes et de buis. Bouche riche et friande, pleine de saveurs de fruits mûrs (pamplemousse) qui persistent longtemps en finale."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_classicrose.png",
+      "cepages": "60% Merlot, 40% Cabernet Franc",
+      "id": "roquesmauriac-classicrose",
+      "url": "url",
+      "name": "Roques-Mauriac Classic Rosé",
+      "aop": "AOC Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau…",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion…"
+      },
+      "vinification": {
+        "en": "Harvested at night, the grapes undergo a brief maceration with skins before pneumatic pressing during which we keep only the “heart of the press”. The must settles and is maintained cold during a week in order to favour the development of distinctive aromas. Alcoholic fermentation takes place at low temperatures (14-16°C) in small concrete, thermo-regulated vats. Shortly after blending the different varietals, this wine is bottled at the Château in order to preserve all of its flavour.",
+        "fr": "Vendangés la nuit, les raisins subissent une courte macération pelliculaire avant un pressurage pneumatique durant lequel nous ne conservons que le « cœur de pressée ». Le moût est ensuite débourbé, puis maintenu au froid durant une semaine afin de privilégier le développement de précurseurs d’arômes. La fermentation alcoolique se déroule à basse température (14- 16°C) en petites cuves béton thermo régulées. Après assemblage des différents cépages, le vin est rapidement mis en bouteille au château afin de conserver tous ses arômes."
+      },
+      "description": {
+        "en": "Pale pink robe with salmon highlights. A nose with English candy and red fruit notes (red currant, blackberry). A mouth of tender biscuits and summer red fruit with a refreshing finish.",
+        "fr": "Robe rose pâle aux reflets saumonés. Nez aux notes de bonbon anglais et de fruits rouges (groseille, mûre). Bouche aux saveurs de biscuit moelleux et de fruits rouges d’été, et à la finale rafraichissante."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Roques-Mauriac",
+      "img": "/images/roquesmauriac/roquesmauriac_avantgout.png",
+      "cepages": "85% Merlot, 15% Cabernet Sauvignon",
+      "id": "roquesmauriac-avant",
+      "url": "url",
+      "name": "Roques-Mauriac Avant Gout",
+      "aop": "AOC Bordeaux",
+      "price": "11.99",
+      "terroir": {
+        "en": "Roques Mauriac grows in highly favourable conditions: high density planting on one of the highest plateaus of l’Entre-Deux-Mers, the soil is made up of excellent quality, very pure clay on a flush underlying layer of maritime limestone. A geological make-up not unlike its prestigious neighbour, the Saint-Emilion plateau…",
+        "fr": "Roques Mauriac bénéficie d’une situation privilégiée : implanté à haute densité sur un des plus hauts plateaux de l’Entre-Deux-Mers, les sols y sont constitués d’une belle argile très pure, sur un sous-sol de calcaire maritime affleurant. Une géologie qui n’est pas sans rappeler celle de son prestigieux voisin, le plateau de Saint-Émilion…"
+      },
+      "vinification": {
+        "en": "using a unique process. The grapes are removed from their stems, crushed and heated to 70°C in order to immediately extract the colour from the skin and the fruit. After macerating with skins for 5 to 6 hours, the grapes are pressed. The juice is then quickly cooled and vinified as a rosé wine, without the skins or seeds. Once the malolactic fermentation has been completed, the wine is then rapidly bottled in our chais in order to preserve the profusion of its aromas.",
+        "fr": "Issue de très jeunes vignes de Merlot et de Cabernet Sauvignon, cette cuvée est vinifiée selon un processus très particulier. Les raisins sont égrappés, foulés, puis chauffés à 70°C afin d’extraire immédiatement la couleur présente dans la peau des baies. Après une macération pelliculaire de 5 à 6 heures, les raisins sont pressés. Le jus est ensuite refroidi rapidement, puis vinifié à la manière d’un vin rosé, sans peaux ni pépins. Une fois la fermentation malolactique terminée, le vin est mis en bouteilles dans nos chais très rapidement afin de préserver au mieux ses arômes explosifs."
+      },
+      "description": {
+        "en": "An explosion of fruit. Savours of red current, blueberry and blackberry come directly to the nose. The mouth, supple and round, confirm this first impression. The finish is tasty and fresh, almost without tannins.",
+        "fr": "Une explosion de fruit ! Les saveurs de groseille, myrtille et mûre se livrent immédiatement à vous, avant que le bouche tout en rondeur vienne confirmer cette impression. La finale est gourmande et fraîche, quasiment dénuée de tanins."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Lagnet",
+      "img": "/images/lagnet/lagnet_esprit.png",
+      "cepages": "85% Merlot, 15% Cabernet Sauvignon",
+      "id": "lagnet-esprit",
+      "url": "url",
+      "name": "Lagnet L'Esprit",
+      "aop": "AOC Bordeaux (Rouge))",
+      "price": "11.99",
+      "terroir": {
+        "en": "The 3 traditional Bordeaux varietals (Merlot, Cabernet Franc and Cabernet Sauvignon) grow in the Château Lagnet vineyard. They are planted on gently sloping hillsides and rounded hilltops on a clay terroir on with a flush underlying layer of fossil-rich limestone.",
+        "fr": "Les 3 cépages traditionnels du bordelais, le merlot, le cabernet franc et le cabernet sauvignon, composent le vignoble du château Lagnet. Ils sont plantés sur de petits coteaux et des croupes convexes, sur un terroir argileux sous lequel un sous-sol de calcaire à astéries affleure."
+      },
+      "vinification": {
+        "en": "Harvested at cool temperatures, the grapes are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed, the wine is then aged in stainless steel tanks for 6 to 8 months before being bottled in our chais.",
+        "fr": "Vendangés frais, les raisins sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en cuves inox durant 6 à 8 mois avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Lovely crimson robe with satin nuances. An enticing nose with fresh red cherry notes, as well as blackberry and wild strawberry. A round, crisp mouth with a slightly tannic finish giving way to immediate pleasure.",
+        "fr": "Belle robe rouge pourpre aux nuances satinées. Nez gourmand aux flaveurs de cerises rouges fraîches, de mûre et de fraises des bois. Bouche croquante, ronde, avec une finale moyennement tannique pour un plaisir immédiat."
+      },
+      "text": "wine1"
+    },
+    {
+      "chateau": "Lagnet",
+      "img": "/images/lagnet/lagnet_reserve.png",
+      "cepages": "80% Merlot, 20% Cabernet Sauvignon",
+      "id": "lagnet-reserve",
+      "url": "url",
+      "name": "Lagnet Réserve",
+      "aop": "AOC Bordeaux Supérieur",
+      "price": "11.99",
+      "terroir": {
+        "en": "The 3 traditional Bordeaux varietals (Merlot, Cabernet Franc and Cabernet Sauvignon) grow in the Château Lagnet vineyard. They are planted on gently sloping hillsides and rounded hilltops on a clay terroir on with a flush underlying layer of fossil-rich limestone.",
+        "fr": "Les 3 cépages traditionnels du bordelais, le merlot, le cabernet franc et le cabernet sauvignon, composent le vignoble du château Lagnet. Ils sont plantés sur de petits coteaux et des croupes convexes, sur un terroir argileux sous lequel un sous-sol de calcaire à astéries affleure."
+      },
+      "vinification": {
+        "en": "Harvested at cool temperatures, the grapes are stripped from the stem and crushed. A pre-fermentation cold maceration takes place for 5 to 7 days (10°C). The alcoholic fermentation evolves in stainless steel tanks at low temperatures (20-22°C) with frequent pumping over and punching down the cap. Oxygen supply is moderate in order to favour the aromatic expression of the wine. The total time in vats of 20 to 25 days varies depending on the year. Once the malolactic fermentation has been completed the wine is then aged for a total of 12 to 14 months in stainless steel tanks and with oak staves before being bottled in our chais.",
+        "fr": "Vendangés frais, les raisins sont égrappés et foulés. Une macération pré-fermentaire à froid est pratiquée pendant 5 à 7 jours (10°C). La fermentation alcoolique se déroule en cuves inox, à basse température (20-22°C), avec des pigeages et remontages fréquents. Les apports d’oxygène sont très modérés afin de privilégier l’expression aromatique du vin. La durée totale de cuvaison varie selon les années de 20 à 25 jours. Une fois la fermentation malolactique terminée, le vin est ensuite élevé en cuves inox et en partie boisé sous « staves » (douelles de barriques de chêne) durant 12 à 14 mois avant mise en bouteilles dans nos chais."
+      },
+      "description": {
+        "en": "Garnet robe with crimson highlights. A nose that blends mocha and crushed red fruit. An enticing mouth that opens up to generously tasty tannins. Chocolate and toasted notes marry with candied cherries and vanilla flavours",
+        "fr": "Robe grenat aux reflets violacés. Nez mêlant des notes de moka et fruits rouges écrasés. Bouche gourmande découvrant des tanins généreux et friands. Des notes chocolatées et torréfiées se marient à des cerises confites et des notes vanillées."
+      },
+      "text": "wine1"
+    }
+  ]

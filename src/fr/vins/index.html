@@ -1,0 +1,35 @@
+---
+layout: "layouts/page.njk"
+---
+<div class="padding">
+<h1 class="text-dark">Nos vins</h1>
+  <p class="">Établi en collaboration avec notre consultant externe depuis 2003, Olivier Dauga, le processus général de vinification et d’élevage est principalement axé sur le respect du fruit et l’équilibre de nos vins, en cherchant le mariage parfait entre puissance et fraîcheur. Il évolue chaque année, en fonction des conditions du millésime, des nouvelles techniques mises à notre disposition, de nos possibilités d’investissements, et ce toujours dans un but d’amélioration de la qualité.</p>
+  <div class="medals flex">
+    <img src="/images/bordeaux-or-medaille.png">
+    <img src="/images/bruxelles-argent-medaille.png">
+    <img src="/images/paris-or-medaille.png">
+    <img src="/images/challenge-argent-medaille.png">
+    <img src="/images/lyon-or-medaille.png">
+    <img src="/images/macon-or-medaille.png">
+  </div>
+</div>
+<div class="flex border">
+  <img src="/images/cave_sylvie.jpg">
+  <div class="side-text serif">Notre processus général de vinification et d’élevage est principalement axé sur le respect du fruit et l’équilibre de nos vins, en cherchant le mariage parfait entre puissance et fraîcheur.</div>
+</div>
+<div class="padding wine-text">
+  <p>
+    Pour les vins blancs et rosés : vendanges de nuit, protection intégrale des raisins contre l’oxydation par gaz inerte, macération pelliculaire (pour les blancs), pressurage pneumatique à basse pression, fermentation alcoolique en petites cuves béton thermorégulées, mise en bouteilles rapide afin de préserver les arômes explosifs de nos vins.
+  </p>
+  <p>
+    Pour les vins rouges : vendanges par températures inférieures à 15°C, égrappage et foulage, protection intégrale des raisins contre l’oxydation par gaz inerte, macération pré-fermentaire à froid, fermentation alcoolique à basse température en quasi anaérobie, cuvaisons totales de 20 à 30 jours selon les parcelles, décuvage gravitaire, pressurage pneumatique, type et durée d’élevage (cuve, staves, barriques) raisonné en fonction de la qualité des lots et du millésime, toujours à la limite de la réduction afin de préserver les arômes jusqu’à la mise en bouteilles dans nos chais.
+  </p>
+</div>
+<div class="wine-grid-container">
+{%- for wine in wines %}
+  <a href="/fr/{{wine.chateau | slug}}/{{wine.id}}/" class="inline-block wine-grid">
+    <img src="{{ wine.img }}" class="block"><span>{{ wine.name }}</span>
+  </a>
+{% endfor %}
+
+</div>
