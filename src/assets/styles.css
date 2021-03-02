@@ -499,6 +499,10 @@ nav a:hover, nav button:hover {
         background-color: #C4A29E;
     }
 
+    .wine-back {
+        width: initial;
+    }
+
     .medals img {
         max-width: 15%;
     }
