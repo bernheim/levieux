@@ -212,6 +212,7 @@ nav a:hover, nav button:hover {
     height: auto;
     max-width: 100%;
     width: 100vw;
+    object-fit: cover;
 }
 .story .serif {
     font-size: 1.8em;
