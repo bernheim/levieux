@@ -22,7 +22,7 @@
       },
       "fiche": {
         "en": "/files/lbt_prestige-rose_en.pdf",
-        "fr:": "/files/lbt_prestige-rose.pdf"
+        "fr": "/files/lbt_prestige-rose.pdf"
       }
     },
     {
@@ -48,7 +48,7 @@
       },
       "fiche": {
         "en": "/files/lbt_prestige-blanc_en.pdf",
-        "fr:": "/files/lbt_prestige-blanc.pdf"
+        "fr": "/files/lbt_prestige-blanc.pdf"
       }
     },
     {
@@ -74,7 +74,7 @@
       },
       "fiche": {
         "en": "/files/lbt_prestige_en.pdf",
-        "fr:": "/files/lbt_prestige.pdf"
+        "fr": "/files/lbt_prestige.pdf"
       }
     },
     {
@@ -100,7 +100,7 @@
       },
       "fiche": {
         "en": "/files/lbt_grand-vin_en.pdf",
-        "fr:": "/files/lbt_grand-vin.pdf"
+        "fr": "/files/lbt_grand-vin.pdf"
       }
     },
     {
@@ -126,7 +126,7 @@
       },
       "fiche": {
         "en": "/files/rm_damnation_en.pdf",
-        "fr:": "/files/rm_damnation.pdf"
+        "fr": "/files/rm_damnation.pdf"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "fiche": {
         "en": "/files/rm_grand-vin_en.pdf",
-        "fr:": "/files/rm_grand-vin.pdf"
+        "fr": "/files/rm_grand-vin.pdf"
       }
     },
     {
@@ -178,7 +178,7 @@
       },
       "fiche": {
         "en": "/files/rm_helene_en.pdf",
-        "fr:": "/files/rm_helene.pdf"
+        "fr": "/files/rm_helene.pdf"
       }
     },
     {
@@ -204,7 +204,7 @@
       },
       "fiche": {
         "en": "/files/rm_classic_en.pdf",
-        "fr:": "/files/rm_classic.pdf"
+        "fr": "/files/rm_classic.pdf"
       }
     },
     {
@@ -230,7 +230,7 @@
       },
       "fiche": {
         "en": "/files/rm_classic-blanc_en.pdf",
-        "fr:": "/files/rm_classic-blanc.pdf"
+        "fr": "/files/rm_classic-blanc.pdf"
       }
     },
     {
@@ -256,7 +256,7 @@
       },
       "fiche": {
         "en": "/files/rm_classic-rose_en.pdf",
-        "fr:": "/files/rm_classic-rose.pdf"
+        "fr": "/files/rm_classic-rose.pdf"
       }
     },
     {
@@ -282,7 +282,7 @@
       },
       "fiche": {
         "en": "/files/rm_avant-gout_en.pdf",
-        "fr:": "/files/rm_avant-gout.pdf"
+        "fr": "/files/rm_avant-gout.pdf"
       }
     },
     {
@@ -308,7 +308,7 @@
       },
       "fiche": {
         "en": "/files/lgt_esprit_en.pdf",
-        "fr:": "/files/lgt_esprit.pdf"
+        "fr": "/files/lgt_esprit.pdf"
       }
     },
     {
@@ -334,7 +334,7 @@
       },
       "fiche": {
         "en": "/files/lgt_reserve_en.pdf",
-        "fr:": "/files/lgt_reserve.pdf"
+        "fr": "/files/lgt_reserve.pdf"
       }
     }
   ]
