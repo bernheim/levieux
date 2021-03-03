@@ -74,6 +74,8 @@ footer {
     padding-top: 1em;
     display: flex;
     flex-direction: column;
+    text-decoration-color: rgba(10, 10, 10, 0.3);
+    color: rgba(30,30,30,1);
 }
 
 footer div {
@@ -315,6 +317,19 @@ nav a:hover, nav button:hover {
     height: 3rem;
     width: 3rem;
 }
+.snipcart-item-line__image {
+    width: auto;
+    object-fit: contain;
+}
+footer .snipcart-checkout, footer .snipcart-items-count {
+    background: none;
+    border: none;
+    text-decoration: underline;
+    text-decoration-color: rgba(10, 10, 10, 0.3);
+    font: inherit;
+    font-weight: inherit;
+    color: #1E1E1E;
+}
 
 .side-text {
     padding: 2em;
@@ -529,4 +544,8 @@ nav a:hover, nav button:hover {
     .wine-page > div {
         width: 50%;
     }
+}
+
+.no-border {
+    border: none;
 }
