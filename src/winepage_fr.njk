@@ -19,11 +19,11 @@ locale: fr
         <button class="snipcart-add-item inline-block"
             data-item-id="{{wine.id}}"
             data-item-price="{{wine.price}}"
-            data-item-url="{{wine.url}}"
+            data-item-url="/fr/{{ wine.chateau | slug }}/{{ wine.id }}/"
             data-item-description="{{wine.description.fr}}"
             data-item-image="{{wine.img}}"
             data-item-name="{{wine.name}}">
-            Add to cart
+            Ajouter au panier
           </button>
         </div>
       <div>
@@ -34,7 +34,8 @@ locale: fr
         <h2>Vinification</h2>
         <p>{{wine.vinification.fr}}</p>
       </div>
-        <a href="{{wine.fiche}}" download class="fiche_technique">Fiche technique</a>
+        <a href="{{wine.fiche.fr}}" download class="fiche_technique">Fiche technique (fr)</a>
+        <a href="{{wine.fiche.en}}" download class="fiche_technique">Fiche technique (en)</a>
     </div>
 
     <div class="">

@@ -19,7 +19,7 @@ locale: en
         <button class="snipcart-add-item inline-block"
             data-item-id="{{wine.id}}"
             data-item-price="{{wine.price}}"
-            data-item-url="{{wine.url}}"
+            data-item-url="/en/{{ wine.chateau | slug }}/{{ wine.id }}/"
             data-item-description="{{wine.description.en}}"
             data-item-image="{{wine.img}}"
             data-item-name="{{wine.name}}">
@@ -34,7 +34,8 @@ locale: en
         <h2>Vinification</h2>
         <p>{{wine.vinification.en}}</p>
       </div>
-        <a href="{{wine.fiche}}" download class="fiche_technique">Fiche technique</a>
+        <a href="{{wine.fiche.en}}" download class="fiche_technique">Fiche technique (en)</a>
+        <a href="{{wine.fiche.fr}}" download class="fiche_technique">Fiche technique (fr)</a>
     </div>
 
     <div class="">
