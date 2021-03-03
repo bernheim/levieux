@@ -20,8 +20,10 @@
         "en": "This cuvée, created from Merlot and Cabernet Franc, has donned a “rose petal” robe for its admirers. The nose unveils notes of strawberry, cherry andraspberry. Indulge in its freshness when enjoying the company of friends.",
         "fr": "Robe légère « pétale de rose ». Nez aux notes de fraise, de cerise et de framboise. Beaucoup de fraîcheur et de gourmandise en bouche pour ce vin de plaisir et de partage."
       },
-      "text": "wine1",
-      "fiche": "/images/labatut/LBT-Prestige-Blanc.pdf"
+      "fiche": {
+        "en": "/files/lbt_prestige-rose_en.pdf",
+        "fr:": "/files/lbt_prestige-rose.pdf"
+      }
     },
     {
       "chateau": "Labatut",
@@ -44,7 +46,10 @@
         "en": "A delicately golden robe. The nose and palate reveal white fruit (peach) and citrus (grapefruit) aromas. An enjoyable length with a fresh and delicate character that surprises the palate.",
         "fr": "Robe légèrement dorée. Au nez et en bouche, les arômes de fruits blancs (pêche) et d’agrumes (pamplemousse) se révèlent. D’une belle longueur, la bouche étonne par sa fraicheur et son délicatesse."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/lbt_prestige-blanc_en.pdf",
+        "fr:": "/files/lbt_prestige-blanc.pdf"
+      }
     },
     {
       "chateau": "Labatut",
@@ -67,7 +72,10 @@
         "en": "Dense, ruby robe. On the nose it has a crushed red fruit aroma. On the palate, it is smooth and appetizing. The prime flavours- strawberry, black currant and blackberries have a lasting finish.",
         "fr": "Belle robe dense, couleur rubis. Nez aux arômes de fruits rouges écrasés. Bouche onctueuse et gourmande. La fraise, le cassis et la mûre dominent avec une belle persistance."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/lbt_prestige_en.pdf",
+        "fr:": "/files/lbt_prestige.pdf"
+      }
     },
     {
       "chateau": "Labatut",
@@ -90,7 +98,10 @@
         "en": "Ruby robe with purple highlights. Its nose is characterised by ripe fruit (strawberry, black cherry and blueberry). Its full mouth, with dense, silky tannins has a lovely finish.",
         "fr": "Robe rubis aux reflets violacés. Nez marqué par des senteurs de fruits mûrs (fraise, cerise noire, myrtille). Bouche ample, aux tannins denses et soyeux, avec une belle allonge."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/lbt_grand-vin_en.pdf",
+        "fr:": "/files/lbt_grand-vin.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -113,7 +124,10 @@
         "en": "Dark red, almost opaque robe. A complex and expressive nose of ripe red fruits (black currant and raspberry) mixed with floral notes (rose bud and violet), as well as mocha and spices. A silky, sleek mouth with fine-grained tannins. The finish is remarkably fresh.",
         "fr": "Robe rouge sombre est presque opaque. Nez expressif et complexe de fruits rouges mûrs (cassis, framboise), mêlés à des notes florales (bouton de rose, violette), de moka et d’épices. Bouche soyeuse, élancée, avec des tanins au grain fin. La finale est d’une fraîcheur remarquable."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_damnation_en.pdf",
+        "fr:": "/files/rm_damnation.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -136,7 +150,10 @@
         "fr": "Robe d’un rubis profond. Nez offrant des parfums de fruits rouges (fraise, cassis, mûre) ainsi que des notes épicées et toastées. Bouche de style moderne, offrant de beaux volumes et une trame tannique soyeuse.",
         "en": "Deep ruby robe. On the nose, red fruit (strawberry, black currant and blackberry) as well as spicy and toasted notes. A modern bouquet with a full body and a silky tannin structure."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_grand-vin_en.pdf",
+        "fr:": "/files/rm_grand-vin.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -159,7 +176,10 @@
         "en": "Elegant dark crimson robe. The nose exudes aromas of wild strawberry and raspberry with hints of vanilla extract and some mineral notes. On the palate it is elegant, with wild red fruit flavours as well as hints of spice.",
         "fr": "Belle robe pourpre sombre. Nez exhalant des arômes de fraises des bois, de framboise, mêlés à des essences de vanille et quelques notes minérales. Bouche élégante enrobant un panier de fruits des bois, ainsi que quelques notes épicées."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_helene_en.pdf",
+        "fr:": "/files/rm_helene.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -182,7 +202,10 @@
         "en": "Bright ruby robe. An elegant nose of fresh red fruit and a few spicy notes. A fruity mouth with excellent balance and a finish of harmonious, crunchy tannins.",
         "fr": "Robe de couleur rubis, brillante. Nez offrant d’élégantes notes de fruits rouges frais et quelques notes épicées. Bouche fruitée, dotée d’un bon équilibre, avec une finale aux tanins fondus et croquants."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_classic_en.pdf",
+        "fr:": "/files/rm_classic.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -205,7 +228,10 @@
         "en": "Pale golden robe. An enticing nose with floral aromas (jasmine, rose, hawthorn), accompanied with perfumes of citrus and boxwood. A rich and tasty mouth, full of ripe fruit flavour (grapefruit) that draws out in the finish.",
         "fr": "Robe or pâle. Nez séduisant aux arômes floraux (jasmin, rose, aubépine), complétés de parfums d’agrumes et de buis. Bouche riche et friande, pleine de saveurs de fruits mûrs (pamplemousse) qui persistent longtemps en finale."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_classic-blanc_en.pdf",
+        "fr:": "/files/rm_classic-blanc.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -228,7 +254,10 @@
         "en": "Pale pink robe with salmon highlights. A nose with English candy and red fruit notes (red currant, blackberry). A mouth of tender biscuits and summer red fruit with a refreshing finish.",
         "fr": "Robe rose pâle aux reflets saumonés. Nez aux notes de bonbon anglais et de fruits rouges (groseille, mûre). Bouche aux saveurs de biscuit moelleux et de fruits rouges d’été, et à la finale rafraichissante."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_classic-rose_en.pdf",
+        "fr:": "/files/rm_classic-rose.pdf"
+      }
     },
     {
       "chateau": "Roques-Mauriac",
@@ -251,7 +280,10 @@
         "en": "An explosion of fruit. Savours of red current, blueberry and blackberry come directly to the nose. The mouth, supple and round, confirm this first impression. The finish is tasty and fresh, almost without tannins.",
         "fr": "Une explosion de fruit ! Les saveurs de groseille, myrtille et mûre se livrent immédiatement à vous, avant que le bouche tout en rondeur vienne confirmer cette impression. La finale est gourmande et fraîche, quasiment dénuée de tanins."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/rm_avant-gout_en.pdf",
+        "fr:": "/files/rm_avant-gout.pdf"
+      }
     },
     {
       "chateau": "Lagnet",
@@ -274,7 +306,10 @@
         "en": "Lovely crimson robe with satin nuances. An enticing nose with fresh red cherry notes, as well as blackberry and wild strawberry. A round, crisp mouth with a slightly tannic finish giving way to immediate pleasure.",
         "fr": "Belle robe rouge pourpre aux nuances satinées. Nez gourmand aux flaveurs de cerises rouges fraîches, de mûre et de fraises des bois. Bouche croquante, ronde, avec une finale moyennement tannique pour un plaisir immédiat."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/lgt_esprit_en.pdf",
+        "fr:": "/files/lgt_esprit.pdf"
+      }
     },
     {
       "chateau": "Lagnet",
@@ -297,6 +332,9 @@
         "en": "Garnet robe with crimson highlights. A nose that blends mocha and crushed red fruit. An enticing mouth that opens up to generously tasty tannins. Chocolate and toasted notes marry with candied cherries and vanilla flavours",
         "fr": "Robe grenat aux reflets violacés. Nez mêlant des notes de moka et fruits rouges écrasés. Bouche gourmande découvrant des tanins généreux et friands. Des notes chocolatées et torréfiées se marient à des cerises confites et des notes vanillées."
       },
-      "text": "wine1"
+      "fiche": {
+        "en": "/files/lgt_reserve_en.pdf",
+        "fr:": "/files/lgt_reserve.pdf"
+      }
     }
   ]
