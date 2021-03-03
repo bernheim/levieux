@@ -2,7 +2,7 @@
 {%- for wine in wines %}
   {%- if wine.chateau == chateau %}
   <a href="/{{locale}}/{{chateau | slug}}/{{wine.id}}/" class="inline-block wine-grid">
-    <img src="{{ wine.img }}" class="block"><span>{{ wine.name }}</span>
+    <img src="{{ wine.img }}" class="block" alt="Photo of {{wine.name}}"><span>{{ wine.name }}</span>
   </a>
   {% endif %}
 {% endfor %}
