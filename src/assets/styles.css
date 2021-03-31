@@ -110,7 +110,6 @@ nav div{
     background: rgba(1,1,1,0.4);
     width: 100%;
 }
-
 nav a, .wine-back a, nav button {
     padding: 1em;
     display: inline-block;
@@ -120,9 +119,11 @@ nav a, .wine-back a, nav button {
     border: none;
     text-decoration: underline;
 }
-
 nav a:hover, nav button:hover {
     background-color: rgba(200,200,200, 0.2);
+}
+nav.text-white {
+    background-color: #161616
 }
 
 .hero {
@@ -448,6 +449,9 @@ footer .snipcart-checkout, footer .snipcart-items-count {
     nav a:hover, nav button:hover {
         box-sizing: content-box;
         border: .4em solid #161616;
+    }
+    nav.text-white {
+        background: none;
     }
     .wine-back {
         text-align: left;
